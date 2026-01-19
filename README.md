@@ -46,7 +46,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desen
 ## Connect with Me
 
 <div>
-  <a href="https://www.linkedin.com/in/caiosantos" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-lima-56a2b9246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:caioccaio99@icloud.com">
