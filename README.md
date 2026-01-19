@@ -9,8 +9,8 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desen
 - Name: Caio Santos  
 - Location: Curitiba, PR – Brasil  
 - Education: Análise e Desenvolvimento de Sistemas  
-- Experience: Processos, sistemas de gestão, documentação e automação  
-- Interests: Desenvolvimento backend, automação, tecnologia e música  
+- Experience: Processos, sistemas de gestão, documentação e automação 
+- Interests: Desenvolvimento backend, automação, tecnologia, jogos e música  
 
 ---
 
