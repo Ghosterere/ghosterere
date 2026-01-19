@@ -33,8 +33,9 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desen
 
 ---
 
-📌 Projeto em Destaque
-🐶 Doggo — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.
+### 📌 Projeto em Destaque
+
+🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
 🔗 https://github.com/nimdiido/doggo
 
 ---
