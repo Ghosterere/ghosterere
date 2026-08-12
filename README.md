@@ -1,69 +1,175 @@
-# 👋 Olá, eu sou Caio Santos
+<div align="center">
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend e Python**.
+# 👋 Olá, eu sou o Caio Santos
 
-Tenho interesse em desenvolvimento de software, APIs, automação e banco de dados. Atualmente desenvolvo projetos próprios para aplicar conceitos de arquitetura de software, programação assíncrona, persistência de dados e integração entre sistemas.
+### Desenvolvedor de Software | Backend • Web • Automação • IA
 
-## 🛠️ Tecnologias
+Desenvolvendo soluções, aprendendo novas tecnologias e transformando ideias em projetos reais.
 
-**Backend**
+</div>
 
-* Python
-* SQL
-* Programação Orientada a Objetos
-* Programação assíncrona
+---
 
-**Web**
+## 👨‍💻 Sobre mim
 
-* HTML
-* CSS
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCesumar
 
-**Ferramentas**
+💻 Focado em **desenvolvimento de software, backend e aplicações web**
 
-* Git
-* GitHub
+🤖 Interesse em **Inteligência Artificial, automação e integração de APIs**
 
-**Estudando**
+🚀 Desenvolvendo projetos próprios para resolver problemas reais e evoluir minhas habilidades
 
-* Django
-* Java
-* APIs REST
-* Testes automatizados
-* Design Patterns
+📍 Paraná, Brasil
 
-## 🚀 Projetos
+---
 
-### 🛒 Discord Marketplace
+## 🛠️ Tecnologias e Ferramentas
 
-Sistema de marketplace integrado ao Discord, desenvolvido em Python.
+<div align="center">
 
-Principais recursos:
+### Linguagens
 
-* Gerenciamento de lojas e produtos
-* Fluxo de compras e pedidos
-* Sistema de tickets
-* Avaliações
-* Persistência de dados
-* Operações CRUD
-* Painéis para clientes, lojistas e administradores
-* Programação assíncrona orientada a eventos
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,html,css" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 👕 StyleAI
+
+Assistente inteligente de estilo desenvolvido para ajudar usuários a analisar peças de roupa e descobrir combinações utilizando **Inteligência Artificial**.
+
+**Principais funcionalidades:**
+
+* 👕 Guarda-roupa digital
+* 📸 Upload e processamento de imagens
+* 🤖 Análise de combinações utilizando IA
+* 🎨 Interface moderna e responsiva
+* 🔐 Sistema de usuários
+* 🗄️ Persistência de dados
+
+**Tecnologias:**
+
+`TypeScript` `Next.js` `IA` `Processamento de Imagens`
+
+➡️ [Ver projeto](https://github.com/Ghosterere/StyleAI)
+
+---
+
+### 🛒 Wysteria Marketplace
+
+Sistema completo de **marketplace integrado ao Discord**, permitindo que comunidades criem lojas e comercializem produtos através de uma experiência totalmente integrada ao servidor.
+
+**Principais funcionalidades:**
+
+* 🏪 Cadastro e gerenciamento de lojas
+* 📦 Catálogo de produtos
+* 🛒 Sistema de pedidos
+* 🎫 Tickets privados
+* ⭐ Avaliações e reputação
+* 👨‍💼 Painel administrativo
+* 📊 Dashboard para lojistas
+* 🗄️ Persistência de dados
+
+**Tecnologias:**
+
+`Python` `discord.py` `SQLite`
+
+➡️ [Ver projeto](https://github.com/Ghosterere/Wysteria-Loja)
+
+---
 
 ### 🐶 Doggo
 
-Bot para Discord desenvolvido em Python com arquitetura modular, PostgreSQL, integração com APIs externas e recursos de IA.
+Bot para Discord desenvolvido em **Python**, utilizando arquitetura modular, banco de dados e integrações com serviços externos.
 
-### 📅 Gerenciador de Rotina
+**Principais recursos:**
 
-Aplicação desktop desenvolvida em Python para gerenciamento e organização de rotinas e tarefas.
+* 🤖 Automação de funcionalidades dentro do Discord
+* 🧠 Integração com Inteligência Artificial
+* 🌐 Integração com APIs externas
+* 🗄️ Banco de dados PostgreSQL
+* 🧩 Arquitetura modular
 
-## 🎯 Atualmente
+**Tecnologias:**
 
-* Aprofundando conhecimentos em Python e Backend
-* Estudando APIs REST e Django
-* Aprimorando conhecimentos em SQL e banco de dados
-* Desenvolvendo projetos para portfólio
-* Buscando oportunidade como Desenvolvedor Backend Júnior ou estágio em Desenvolvimento de Software
+`Python` `PostgreSQL` `APIs` `IA`
 
-## 📫 Contato
+➡️ [Ver projeto](https://github.com/nimdiido/doggo)
 
-LinkedIn: linkedin.com/in/caiolima01/
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghosterere&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosterere&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Ghosterere&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🧠 Inteligência Artificial
+* ⚙️ Desenvolvimento Backend
+* 🌐 APIs REST
+* 🏗️ Arquitetura de Software
+* 🗄️ Banco de Dados
+* 🧹 Clean Code e boas práticas
+* 🔧 Git e versionamento
+
+---
+
+## 🎯 Objetivos
+
+Busco evoluir como desenvolvedor através da criação de projetos reais, aprofundando meus conhecimentos em **backend, aplicações web, automação e Inteligência Artificial**.
+
+Meu objetivo é desenvolver soluções úteis, escaláveis e bem estruturadas enquanto continuo expandindo meu conhecimento na área de tecnologia.
+
+---
+
+## 🤝 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Santos-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caiolima01/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ghosterere-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ghosterere)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Transformando ideias em código.
+
+</div>
