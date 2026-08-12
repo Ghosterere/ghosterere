@@ -1,60 +1,69 @@
-## Caio Santos
+# 👋 Olá, eu sou Caio Santos
 
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e automação de processos.
+Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend e Python**.
 
----
+Tenho interesse em desenvolvimento de software, APIs, automação e banco de dados. Atualmente desenvolvo projetos próprios para aplicar conceitos de arquitetura de software, programação assíncrona, persistência de dados e integração entre sistemas.
 
-## About Me
+## 🛠️ Tecnologias
 
-- Name: Caio Santos  
-- Location: Curitiba, PR – Brasil  
-- Education: Análise e Desenvolvimento de Sistemas  
-- Experience: Processos, sistemas de gestão, documentação e automação 
-- Interests: Desenvolvimento backend, automação, tecnologia, jogos e música  
+**Backend**
 
----
+* Python
+* SQL
+* Programação Orientada a Objetos
+* Programação assíncrona
 
-## Tech Stack
+**Web**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+* HTML
+* CSS
 
----
+**Ferramentas**
 
-### 📌 Projeto em Destaque
+* Git
+* GitHub
 
-🐶 **Doggo** — Bot de Discord em Python com arquitetura modular, PostgreSQL, integrações com APIs externas e recursos de IA.  
-🔗 https://github.com/nimdiido/doggo
+**Estudando**
 
----
+* Django
+* Java
+* APIs REST
+* Testes automatizados
+* Design Patterns
 
-## Current Focus
+## 🚀 Projetos
 
-- Backend development  
-- APIs e automação de processos  
-- Boas práticas de código e versionamento  
+### 🛒 Discord Marketplace
 
----
+Sistema de marketplace integrado ao Discord, desenvolvido em Python.
 
-## Connect with Me
+Principais recursos:
 
-<div>
-  <a href="https://www.linkedin.com/in/caiolima01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:caioccaio99@icloud.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=maildotru&logoColor=white">
-  </a>
-</div>
+* Gerenciamento de lojas e produtos
+* Fluxo de compras e pedidos
+* Sistema de tickets
+* Avaliações
+* Persistência de dados
+* Operações CRUD
+* Painéis para clientes, lojistas e administradores
+* Programação assíncrona orientada a eventos
+
+### 🐶 Doggo
+
+Bot para Discord desenvolvido em Python com arquitetura modular, PostgreSQL, integração com APIs externas e recursos de IA.
+
+### 📅 Gerenciador de Rotina
+
+Aplicação desktop desenvolvida em Python para gerenciamento e organização de rotinas e tarefas.
+
+## 🎯 Atualmente
+
+* Aprofundando conhecimentos em Python e Backend
+* Estudando APIs REST e Django
+* Aprimorando conhecimentos em SQL e banco de dados
+* Desenvolvendo projetos para portfólio
+* Buscando oportunidade como Desenvolvedor Backend Júnior ou estágio em Desenvolvimento de Software
+
+## 📫 Contato
+
+LinkedIn: linkedin.com/in/caiolima01/
