@@ -114,14 +114,6 @@ Bot para Discord desenvolvido em **Python**, utilizando arquitetura modular, ban
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ghosterere&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ## 🔥 Contribuições
 
 <div align="center">
