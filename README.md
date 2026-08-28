@@ -1,46 +1,50 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Caio Santos
+<img src="./assets/gabimaru.gif" width="130" alt="Gabimaru" />
 
-### Desenvolvedor de Software | Backend • Web • Automação • IA
+# Caio Eduardo
 
-Desenvolvendo soluções, aprendendo novas tecnologias e transformando ideias em projetos reais.
+### Backend Developer • Software Development • ADS Student
+
+Desenvolvedor focado em **backend, automação e construção de sistemas**, transformando ideias em projetos funcionais e escaláveis.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCesumar
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💻 Focado em **desenvolvimento de software, backend e aplicações web**
+💻 Foco em **Backend Development**
 
-🤖 Interesse em **Inteligência Artificial, automação e integração de APIs**
+🐍 Desenvolvendo principalmente com **Python**
 
-🚀 Desenvolvendo projetos próprios para resolver problemas reais e evoluir minhas habilidades
+⚡ Experiência com programação assíncrona, bancos de dados e sistemas orientados a eventos
 
-📍 Paraná, Brasil
+🚀 Gosto de transformar problemas reais em aplicações e ferramentas úteis
+
+📚 Sempre estudando novas tecnologias e melhorando meus projetos
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Linguagens
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-### Web
+### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma" />
 
-### Banco de Dados
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
-### Ferramentas
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -48,109 +52,77 @@ Desenvolvendo soluções, aprendendo novas tecnologias e transformando ideias em
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 👕 StyleAI
+### 🛍️ LojaDC
 
-Assistente inteligente de estilo desenvolvido para ajudar usuários a analisar peças de roupa e descobrir combinações utilizando **Inteligência Artificial**.
-
-**Principais funcionalidades:**
-
-* 👕 Guarda-roupa digital
-* 📸 Upload e processamento de imagens
-* 🤖 Análise de combinações utilizando IA
-* 🎨 Interface moderna e responsiva
-* 🔐 Sistema de usuários
-* 🗄️ Persistência de dados
-
-**Tecnologias:**
-
-`TypeScript` `Next.js` `IA` `Processamento de Imagens`
-
-➡️ [Ver projeto](https://github.com/Ghosterere/StyleAI)
-
----
-
-### 🛒 Wysteria Marketplace
-
-Sistema completo de **marketplace integrado ao Discord**, permitindo que comunidades criem lojas e comercializem produtos através de uma experiência totalmente integrada ao servidor.
-
-**Principais funcionalidades:**
-
-* 🏪 Cadastro e gerenciamento de lojas
-* 📦 Catálogo de produtos
-* 🛒 Sistema de pedidos
-* 🎫 Tickets privados
-* ⭐ Avaliações e reputação
-* 👨‍💼 Painel administrativo
-* 📊 Dashboard para lojistas
-* 🗄️ Persistência de dados
-
-**Tecnologias:**
-
-`Python` `discord.py` `SQLite`
-
-➡️ [Ver projeto](https://github.com/Ghosterere/Wysteria-Loja)
-
----
-
-### 🐶 Doggo
-
-Bot para Discord desenvolvido em **Python**, utilizando arquitetura modular, banco de dados e integrações com serviços externos.
+Marketplace completo integrado ao **Discord**, permitindo que lojistas criem suas próprias lojas, produtos e atendimentos.
 
 **Principais recursos:**
 
-* 🤖 Automação de funcionalidades dentro do Discord
-* 🧠 Integração com Inteligência Artificial
-* 🌐 Integração com APIs externas
-* 🗄️ Banco de dados PostgreSQL
-* 🧩 Arquitetura modular
+* Sistema de lojas e produtos
+* Marketplace integrado ao Discord
+* Pedidos e histórico de compras
+* Tickets privados de atendimento
+* Sistema de avaliações
+* Gerenciamento para lojistas
+* Persistência de dados
+* Arquitetura assíncrona orientada a eventos
 
-**Tecnologias:**
-
-`Python` `PostgreSQL` `APIs` `IA`
-
-➡️ [Ver projeto](https://github.com/nimdiido/doggo)
+**Tecnologias:** `Python` • `Discord API` • `SQLite` • `AsyncIO`
 
 ---
 
-## 🔥 Contribuições
+### 👕 StyleAI
+
+Assistente de estilo utilizando **Inteligência Artificial** para ajudar usuários a analisar roupas e montar combinações.
+
+**Principais recursos:**
+
+* Guarda-roupa digital
+* Upload de roupas
+* Análise de combinações utilizando IA
+* Organização de looks
+* Interface web responsiva
+* Sistema de usuários e sessões
+
+**Tecnologias:** `Next.js` • `TypeScript` • `Prisma` • `AI APIs`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ghosterere&theme=github-dark-blue&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghosterere&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosterere&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
-
-* 🧠 Inteligência Artificial
-* ⚙️ Desenvolvimento Backend
-* 🌐 APIs REST
-* 🏗️ Arquitetura de Software
-* 🗄️ Banco de Dados
-* 🧹 Clean Code e boas práticas
-* 🔧 Git e versionamento
-
----
-
-## 🎯 Objetivos
-
-Busco evoluir como desenvolvedor através da criação de projetos reais, aprofundando meus conhecimentos em **backend, aplicações web, automação e Inteligência Artificial**.
-
-Meu objetivo é desenvolver soluções úteis, escaláveis e bem estruturadas enquanto continuo expandindo meu conhecimento na área de tecnologia.
-
----
-
-## 🤝 Contato
+## 🔥 Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Santos-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caiolima01/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosterere&theme=github-dark-blue&hide_border=true" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ghosterere-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ghosterere)
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -158,6 +130,10 @@ Meu objetivo é desenvolver soluções úteis, escaláveis e bem estruturadas en
 
 <div align="center">
 
-### 💻 Transformando ideias em código.
+<img src="./assets/gabimaru.gif" width="70" alt="Gabimaru" />
+
+### Building, learning and improving every day.
+
+<sub>Backend • Software • Automation</sub>
 
 </div>
