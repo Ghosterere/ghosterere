@@ -1,139 +1,117 @@
 <div align="center">
 
-<img src="./assets/gabimaru.gif" width="130" alt="Gabimaru" />
+<img src="./assets/gabimaru.jpg" width="180" alt="Gabimaru" />
 
 # Caio Eduardo
 
-### Backend Developer • Software Development • ADS Student
+### Backend Developer
 
-Desenvolvedor focado em **backend, automação e construção de sistemas**, transformando ideias em projetos funcionais e escaláveis.
+`Python` • `APIs` • `Automation` • `Databases`
+
+Desenvolvedor focado em construir **sistemas, automações e aplicações backend**, buscando transformar ideias em soluções funcionais e bem estruturadas.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-💻 Foco em **Backend Development**
+💻 Focado em **desenvolvimento Backend**
 
 🐍 Desenvolvendo principalmente com **Python**
 
-⚡ Experiência com programação assíncrona, bancos de dados e sistemas orientados a eventos
+⚙️ Experiência com **bancos de dados, programação assíncrona, APIs e sistemas orientados a eventos**
 
-🚀 Gosto de transformar problemas reais em aplicações e ferramentas úteis
-
-📚 Sempre estudando novas tecnologias e melhorando meus projetos
+🚀 Atualmente desenvolvendo projetos próprios para expandir minha experiência prática em desenvolvimento de software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-
-### Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,nodejs,postgres,sqlite,prisma,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
 ### 🛍️ LojaDC
 
-Marketplace completo integrado ao **Discord**, permitindo que lojistas criem suas próprias lojas, produtos e atendimentos.
+Sistema de **marketplace integrado ao Discord**, desenvolvido para permitir a criação e gerenciamento de lojas dentro de servidores.
 
-**Principais recursos:**
+**Principais funcionalidades**
 
-* Sistema de lojas e produtos
-* Marketplace integrado ao Discord
-* Pedidos e histórico de compras
+* Criação e gerenciamento de lojas
+* Catálogo de produtos
+* Sistema de pedidos
 * Tickets privados de atendimento
-* Sistema de avaliações
-* Gerenciamento para lojistas
+* Avaliações de clientes
+* Painel administrativo para lojistas
 * Persistência de dados
-* Arquitetura assíncrona orientada a eventos
+* Fluxos assíncronos integrados ao Discord
 
-**Tecnologias:** `Python` • `Discord API` • `SQLite` • `AsyncIO`
+**Stack**
+
+`Python` `Discord API` `SQLite` `AsyncIO`
 
 ---
 
 ### 👕 StyleAI
 
-Assistente de estilo utilizando **Inteligência Artificial** para ajudar usuários a analisar roupas e montar combinações.
+Aplicação web que utiliza **Inteligência Artificial para auxiliar na escolha e combinação de roupas**.
 
-**Principais recursos:**
+O projeto permite criar um guarda-roupa digital e utilizar IA para analisar diferentes peças e combinações.
+
+**Principais funcionalidades**
 
 * Guarda-roupa digital
-* Upload de roupas
-* Análise de combinações utilizando IA
+* Upload e gerenciamento de roupas
+* Análise de combinações com IA
 * Organização de looks
-* Interface web responsiva
-* Sistema de usuários e sessões
+* Sistema de usuários
+* Interface responsiva
 
-**Tecnologias:** `Next.js` • `TypeScript` • `Prisma` • `AI APIs`
+**Stack**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ghosterere&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosterere&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+`Next.js` `TypeScript` `Prisma` `AI APIs`
 
 ---
 
-## 🔥 Activity
+## 📚 Atualmente
 
-<div align="center">
+Estou aprofundando meus conhecimentos em:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosterere&theme=github-dark-blue&hide_border=true" />
+`Backend Development` • `APIs` • `Databases` • `Software Architecture` • `Artificial Intelligence`
 
-</div>
+Também continuo desenvolvendo e aprimorando meus projetos pessoais.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contato
 
 <div align="center">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Caio%20Eduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="./assets/gabimaru.gif" width="70" alt="Gabimaru" />
+<img src="./assets/gabimaru.jpg" width="70" alt="Gabimaru" />
 
-### Building, learning and improving every day.
-
-<sub>Backend • Software • Automation</sub>
+<sub>Building things, learning constantly.</sub>
 
 </div>
