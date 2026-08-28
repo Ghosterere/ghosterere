@@ -57,45 +57,48 @@ Desenvolvedor focado em construir **sistemas, automações e aplicações backen
 
 ## 🚀 Projetos em destaque
 
-### 🛍️ LojaDC
+### 🛍️ Wysteria — Marketplace para Discord
 
-Sistema de **marketplace integrado ao Discord**, desenvolvido para permitir que lojistas criem e gerenciem suas próprias lojas dentro de servidores.
+Bot de **marketplace integrado ao Discord**, permitindo que usuários criem e administrem suas próprias lojas, produtos e atendimentos diretamente dentro de um servidor.
 
 **Principais funcionalidades:**
 
 - 🏪 Criação e gerenciamento de lojas
 - 📦 Catálogo e gerenciamento de produtos
 - 🛒 Sistema completo de pedidos
-- 🎫 Tickets privados de atendimento
+- 🎫 Atendimentos em threads privadas
 - ⭐ Sistema de avaliações
-- 📊 Painel de gerenciamento para lojistas
+- 📊 Histórico e estatísticas
 - 💾 Persistência de dados
-- ⚡ Arquitetura assíncrona orientada a eventos
+- ⚡ Arquitetura assíncrona
 
 **Tecnologias**
 
-`Python` • `Discord API` • `SQLite` • `AsyncIO`
+`Python` • `Discord.py` • `SQLite` • `AsyncIO`
+
+[**Ver projeto →**](https://github.com/Ghosterere/Wysteria-Loja)
 
 ---
 
 ### 👕 StyleAI
 
-Aplicação web que utiliza **Inteligência Artificial** para auxiliar usuários na escolha e combinação de roupas.
-
-O projeto permite organizar um guarda-roupa digital e utilizar IA para analisar peças e sugerir combinações.
+Aplicação web que utiliza **Inteligência Artificial** para auxiliar na escolha e combinação de roupas, oferecendo um guarda-roupa digital e análise inteligente de looks.
 
 **Principais funcionalidades:**
 
 - 👔 Guarda-roupa digital
 - 📸 Upload e gerenciamento de roupas
-- 🤖 Análise de combinações utilizando IA
-- ✨ Organização de looks
+- 🤖 Análise de looks utilizando IA
+- ✨ Organização de combinações
 - 👤 Sistema de usuários
 - 📱 Interface responsiva
 
 **Tecnologias**
 
 `Next.js` • `TypeScript` • `Prisma` • `AI APIs`
+
+[**🚀 Testar aplicação →**](https://styleai.squareweb.app/)  
+[**Ver código no GitHub →**](https://github.com/Ghosterere/StyleAI)
 
 ---
 
