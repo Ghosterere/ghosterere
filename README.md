@@ -1,4 +1,4 @@
-<img align="right" src="./assets/gabimaru.png" width="90" alt="Gabimaru">
+<img align="right" src="./assets/Gabimaru.png" width="90" alt="Gabimaru">
 
 # 👋 Olá, eu sou Caio Eduardo
 
