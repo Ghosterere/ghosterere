@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" src="./assets/gabimaru.jpg" width="100" alt="Gabimaru">
+<img align="right" src="./assets/gabimaru.png" width="100" alt="Gabimaru">
 
 # Caio Eduardo
 
